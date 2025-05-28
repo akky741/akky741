@@ -11,7 +11,7 @@
 <br/>
 
 <!--###   :fairy_woman:  About Me  :fairy_woman:-->
-I am Data Analyst and a ETL developer, currently working at Deloitte.
+I’m Akshay Misal. a passionate Data Analyst and Data Scientist with over a year of hands-on experience in data analysis, ML and AI-powered applications. I am Research Analyst and a AI developer, currently working at Contexio
 - ⚡ Fun fact ⚡ -
      - I am open for collaborations and projects
 
