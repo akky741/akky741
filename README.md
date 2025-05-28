@@ -24,12 +24,12 @@ I’m Akshay Misal. a passionate Data Analyst and Data Scientist with over a yea
  
 ###    :thought_balloon:  Social Links  :thought_balloon:
 
-<!---<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="40px" height="40px" src="https://github.com/akky741/akky741/blob/main/profile.png" /></a> --->
+<!---<a href="https://github.com/akky741/" target="_blank"><img align="left" alt="portfolio" width="40px" height="40px" src="https://github.com/akky741/akky741/blob/main/profile.png" /></a> --->
 
 <a href="https://www.linkedin.com/in/akshay-misal-a6120026a/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/linkedIn.png" /></a>
 <a href="mailto:misalakshay2001@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/email.png" /></a>
-<a href="https://stackoverflow.com/users/10667128/vinita" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/stackoverflow.png" /></a>
-<a href="https://twitter.com/lla_vini" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/twitter.png" /></a>
+<a href="https://stackoverflow.com/users/28186811/akshay-misal" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/stackoverflow.png" /></a>
+<a href="https://x.com/akshaym63787529" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/akky741/akky741/blob/main/twitter.png" /></a>
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@ I’m Akshay Misal. a passionate Data Analyst and Data Scientist with over a yea
 
 <br/>
 
-![Vinita's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinita2000&include_all_commits=true&count_private=true&show_icons=true&theme=vue)
+![Vinita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akky741&include_all_commits=true&count_private=true&show_icons=true&theme=vue)
 
 <br />
 
@@ -67,7 +67,7 @@ I’m Akshay Misal. a passionate Data Analyst and Data Scientist with over a yea
 <br />
 
 
-[![Vinita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinita2000&layout=pie)](https://github.com/vinita2000)
+[![Vinita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akky741&layout=pie)](https://github.com/akky741)
 
 <hr>
 
