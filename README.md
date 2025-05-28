@@ -11,7 +11,7 @@
 <br/>
 
 <!--###   :fairy_woman:  About Me  :fairy_woman:-->
-I’m Akshay Misal. a passionate Data Analyst and Data Scientist with over a year of hands-on experience in data analysis, ML and AI-powered applications. I am Research Analyst and a AI developer, currently working at Contexio
+I am Research Analyst and a AI developer, currently working at Contexio
 - ⚡ Fun fact ⚡ -
      - I am open for collaborations and projects
 
