@@ -11,7 +11,7 @@
 <br/>
 
 <!--###   :fairy_woman:  About Me  :fairy_woman:-->
-I am Research Analyst and a AI developer, currently working at Contexio
+I am Consultant, currently working at Qualitykiosk Technologies Pvt.Ltd.
 - ⚡ Fun fact ⚡ -
      - I am open for collaborations and projects
 
