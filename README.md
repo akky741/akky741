@@ -58,7 +58,7 @@ I am Consultant, currently working at Qualitykiosk Technologies Pvt.Ltd.
 
 <br/>
 
-![Vinita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akky741&include_all_commits=true&count_private=true&show_icons=true&theme=vue)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akky741&include_all_commits=true&count_private=true&show_icons=true&theme=vue)
 
 <br />
 
@@ -67,7 +67,7 @@ I am Consultant, currently working at Qualitykiosk Technologies Pvt.Ltd.
 <br />
 
 
-[![Vinita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akky741&layout=pie)](https://github.com/akky741)
+[![Akshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akky741&layout=pie)](https://github.com/akky741)
 
 <hr>
 
